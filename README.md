@@ -15,12 +15,6 @@ The **Street Light Fault Detection and Control System** is an **IoT-based** proj
 - **Real-time Monitoring**: Uses Blynk for real-time monitoring and control of street lights through a mobile app.
 - **Energy Efficient**: Reduces energy consumption by ensuring lights are only active when needed.
 
-## Circuit Diagram
-
- ![WhatsApp Image 2024-05-08 at 20 08 18_20070f4b](https://github.com/MSudharsh110305/Urban-Glow/assets/145757061/f0e3b07d-b117-4bef-9c86-a5fd98fd9f57)
-
-
-
 ## Hardware Requirements
 
 - **ESP32 Microcontroller**
@@ -45,8 +39,8 @@ The **Street Light Fault Detection and Control System** is an **IoT-based** proj
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/MSudharsh110305/Urban-Glow
-cd Urban-Glow
+git clone https://github.com/TharunSaro/Street-Light-Fault-Detection-and-Control-System
+cd Street-Light-Fault-Detection-and-Control-System
 ```
 ## Configure Blynk
 
@@ -82,3 +76,8 @@ const char* password = "Your_WIFI_Password";
 - You can view real-time data and receive alerts for any detected faults.
 
 >You can also control the street lights manually using the Blynk app.
+
+## Team Members
+
+[Sudharsh M](https://github.com/MSudharsh110305)</br>
+Shrinidhi S S
